@@ -1,11 +1,5 @@
 # Java-Task
 
-
-- Write a Java program to print 'Hello' on the screen and your name on a separate line.
-- Write a Java program to print the sum (addition), multiply, subtract, divide, and remainder of two numbers.
-- Write a Java program to swap two numbers by using the third variable
-- Write a Java program to swap two numbers without using the third variable
-- Write a Java program to print the area of a circle
-- Write a Java program to print the ASCII value of a given character.
+![Screenshot 2023-08-28 133604](https://github.com/Nitinpawar07/Java-Task/assets/100480275/31234383-1b81-44d0-a087-083a275531e3)
 
 
